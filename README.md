@@ -35,7 +35,9 @@
 
 ###
 
-<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.</p>
+<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br><br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.<br><br>- 🚀  My story continues in my resume:  See where I'm headed: <a href="https://drive.google.com/file/d/1taiEGQae0cDEGT7-KhilEafETB7TtwUN/view?usp=drive_link" style="color: inherit; text-decoration: none"><b>Click Here</b></a></p>
+
+<br>
 
 ###
 
@@ -72,7 +74,7 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -81,5 +83,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkumarsahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tanishkumarsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
