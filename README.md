@@ -35,9 +35,7 @@
 
 ###
 
-<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br><br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.<br><br>- 🚀  My story continues in my resume:  See where I'm headed: <a href="https://drive.google.com/file/d/1taiEGQae0cDEGT7-KhilEafETB7TtwUN/view?usp=drive_link" style="color: inherit; text-decoration: none"><b>Click Here</b></a></p>
-
-<br>
+<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br><br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.<br><br>My story continues in my resume: 🚀 See where I'm headed: Click Here</p>
 
 ###
 
@@ -54,6 +52,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -68,13 +68,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
-<br>
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -83,3 +83,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkumarsahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tanishkumarsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
