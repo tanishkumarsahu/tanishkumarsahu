@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br><br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.<br><br>My story continues in my resume: 🚀 See where I'm headed: Click Here</p>
+<p align="left">I'm Tanish Kumar Sahu from India<br><br>- 📚 I'm currently learning Full-stack Web Development in the MERN stack.<br><br>- ⚡  In my free time I enjoy watching movies or taking relaxing walks.</p>
 
 ###
 
