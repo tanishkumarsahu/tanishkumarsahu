@@ -8,7 +8,7 @@
   <a href="https://tanish-kumar-sahu-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"  />
   </a>
-  <a href="https://drive.google.com/file/d/1TfSaRCGI44FZPMK7YpwhQVyKnHtBivL1/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1w25PJbjS1QfUH-M95RcJalzT90whe1z5/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=microsoftword&label=&color=2B579A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume"  />
   </a>
 </div>
