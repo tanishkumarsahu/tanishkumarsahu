@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://tanish-kumar-sahu-portfolio.vercel.app/" target="_blank">
+  <a href="https://tanishkumarsahu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"  />
   </a>
-  <a href="https://drive.google.com/file/d/1_GmMsqyOz4tY-2wZ_1Mi1oUZe63rXtVn/view">
+  <a href="https://drive.usercontent.google.com/u/0/uc?id=1PTnyosY59_kf0wGKwWTUDQe5LaaKAk7Y&export=download">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=microsoftword&label=&color=2B579A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume"  />
   </a>
 </div>
