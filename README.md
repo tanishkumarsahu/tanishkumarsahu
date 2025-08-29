@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://tanishkumarsahu.vercel.app/" target="_blank">
+  <a href="https://tanishkumarsahu.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"  />
   </a>
   <a href="https://drive.usercontent.google.com/u/0/uc?id=1PTnyosY59_kf0wGKwWTUDQe5LaaKAk7Y&export=download">
