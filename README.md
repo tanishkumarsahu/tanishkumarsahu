@@ -1,6 +1,29 @@
+<a href="https://tanishkumarsahu.com/">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanish%20Kumar%20Sahu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descSize=18&descAlignY=55&textBg=false"/>
+</a>
 
-<a href="https://tanishkumarsahu.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=F762A9&center=true&vCenter=true&width=435&lines=404%3A+Excuses+not+found." alt="Typing SVG" /></a>
+<a href="https://tanishkumarsahu.com/">
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=F762A9&center=true&vCenter=true&width=435&lines=404%3A+Excuses+not+found." alt="Typing SVG" /></p>
+</a>
+
+##
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishkumarsahu/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tanishkumarsahu.com/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/919302146764">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tanishsahu9331@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+##
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishkumarsahu.tanishkumarsahu&"  />
@@ -101,15 +124,15 @@
   <a href="https://www.linkedin.com/in/tanishkumarsahu/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tanishkumarsahu.com/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/919302146764">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tanishsahu9331@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tanishkumarsahu.com/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
 </p>
 
 <p align="center">
@@ -119,4 +142,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
