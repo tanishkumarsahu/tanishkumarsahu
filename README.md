@@ -3,7 +3,9 @@
 </a>
 
 <a href="https://tanishkumarsahu.com/">
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=F762A9&center=true&vCenter=true&width=435&lines=404%3A+Excuses+not+found." alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F762A9FF&center=true&vCenter=true&width=650&lines=404%3A+Excuses+not+found." alt="Typing introduction" />
+</p>
 </a>
 
 ##
