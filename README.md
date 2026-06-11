@@ -1,158 +1,122 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanish%20Kumar%20Sahu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descSize=18&descAlignY=55&textBg=false"/>
 
-###
-
-<div align="center">
-  <a href="https://tanishkumarsahu.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"  />
-  </a>
-  <a href="https://drive.usercontent.google.com/u/2/uc?id=1PTnyosY59_kf0wGKwWTUDQe5LaaKAk7Y&export=download">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=microsoftword&label=&color=2B579A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanishkumarsahu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@tanishkumarsahu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/30427072/tanish-kumar-sahu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://discord.gg/vhC3K66R" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
+<a href="https://tanishkumarsahu.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=F762A9&center=true&vCenter=true&width=435&lines=404%3A+Excuses+not+found." alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishkumarsahu.tanishkumarsahu&"  />
 </div>
 
-###
 
-<h1 align="center">Hey there 👋 I'm Tanish Kumar Sahu</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-I'm a passionate developer from India who loves building things that make a difference! 🇮🇳<br><br>
-🔭 Currently working on mastering the <strong>MERN stack</strong> and building full-stack applications<br>
-🌱 Always learning something new in the world of web development<br>
-💡 I enjoy solving complex problems and turning ideas into reality<br>
-🎬 When I'm not coding, you'll find me watching movies or taking peaceful walks<br>
-📫 Feel free to reach out for collaborations or just a friendly chat!
-</p>
-
-###
-
-<h3 align="left">🎯 Current Focus</h3>
-
-<p align="left">
-• Building responsive and interactive web applications<br>
-• Exploring modern JavaScript frameworks and libraries<br>
-• Learning backend development with Node.js and Express<br>
-• Diving deep into database design and management<br>
-• Contributing to open-source projects
-</p>
-
-###
-
-<h3 align="left">🛠 Technologies & Tools</h3>
-
-<h4 align="left">Languages</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-<h4 align="left">Frontend</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-<h4 align="left">Backend & Database</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-<h4 align="left">Tools & Others</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="left">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishkumarsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkumarsahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishkumarsahu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
+## 📌 About Me
+- 🌱 I'm currently learning Agentic AI systems & LLM orchestration
+- 👯 I'm looking to collaborate on open source full-stack or AI/ML projects
+- 🤝 I'm looking for help with landing my first full-time SWE / Full-Stack role
 
 
-###
+## 🧠 My Focus Areas
+- Full-Stack Web Development
+- Agentic AI & LLM Systems
+- Open Source Contribution
+- Cloud Infrastructure & DevOps
 
-<h3 align="left">🤝 Let's Connect!</h3>
 
-<p align="left">
-I'm always excited to collaborate on interesting projects or discuss new technologies. Whether you want to work together, need help with something, or just want to chat about tech, feel free to reach out!
-</p>
-
-<div align="center">
-  <a href="mailto:tanishsahu9331@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/tanishkumarsahu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanishkumarsahu&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="tanishkumarsahu's GitHub Stats" />
   </a>
-</div>
+  <img src="https://streak-stats.demolab.com/?user=tanishkumarsahu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="tanishkumarsahu's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishkumarsahu&theme=nightowl&radius=10" alt="tanishkumarsahu's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanishkumarsahu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishkumarsahu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishkumarsahu/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/919302146764">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tanishsahu9331@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tanishkumarsahu.com/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishkumarsahu&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-<div align="center">
-  <i>Happy coding! 🚀</i>
-</div>
