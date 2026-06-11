@@ -22,7 +22,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tanishsahu9331@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 
 ##
@@ -134,7 +134,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tanishsahu9331@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align="center">
